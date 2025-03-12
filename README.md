@@ -40,3 +40,5 @@ To run the frontend, use **Live Server** in VS Code:
 4. Live Server will open the app at `http://localhost:5500`.  
 5. **Note:** Live Server will work **only if the backend server is running** (`npm run dev`).
 --- 
+
+![TalkNow UI](TalkNow_UI.jpg)
