@@ -30,7 +30,6 @@ Run the following command to start the server:
 ```bash
 npm run dev
 ```
-The server runs on http://localhost:8000.
 ---
 ### **3️⃣ Open `index.html` in a Browser**  
 To run the frontend, use **Live Server** in VS Code:  
