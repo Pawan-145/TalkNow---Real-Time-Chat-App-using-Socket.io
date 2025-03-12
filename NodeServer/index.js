@@ -4,7 +4,7 @@ const io = require('socket.io')(8000, {
     }
 });
 
-const users = {}; // 🔹 Renamed to 'users' for clarity
+const users = {}; //  Renamed to 'users' for clarity
 
 io.on('connection', socket => {
     // When a new user joins
