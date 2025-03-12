@@ -41,4 +41,4 @@ To run the frontend, use **Live Server** in VS Code:
 5. **Note:** Live Server will work **only if the backend server is running** (`npm run dev`).
 --- 
 
-![TalkNow UI](TalkNow_UI.jpg)
+![TalkNow UI](TalkNow_UI.png)
